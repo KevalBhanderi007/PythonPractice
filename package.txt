@@ -1,0 +1,4 @@
+package/
+├── __init__.py
+├── mod.py
+└── mod_2.py
